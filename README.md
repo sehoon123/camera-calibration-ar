@@ -31,3 +31,6 @@ python pose_estimation_chessboard.py
 
 ## Screenshots
 
+![Screenshot](./captures/pic1.png)
+![Screenshot](./captures/pic2.png)
+
