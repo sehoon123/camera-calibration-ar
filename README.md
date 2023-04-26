@@ -7,6 +7,7 @@ ARchess is a project that showcases the capabilities of OpenCV for camera calibr
 K = np.array([[1.42147699e+03, 0.00000000e+00, 9.53552649e+02],
               [0.00000000e+00, 1.42057285e+03, 4.72896714e+02],
               [0.00000000e+00, 0.00000000e+00, 1.00000000e+00]])  
+<br>
 dist_coeff = np.array([2.28709128e-02,  4.63141644e-01, -1.91624969e-02,  4.85321124e-04, -1.00070715e+00])
 
 ---
